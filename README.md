@@ -1,3 +1,7 @@
+
+## Demo Video
+
+Watch the demo video here: [Google Drive Link](https://drive.google.com/file/d/1ZspJbddOYa5FPm-ZEsPnqih52SKCKTy4/view?usp=drive_link)
 # Social Scheduler
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
