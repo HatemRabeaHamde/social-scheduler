@@ -1,0 +1,33 @@
+/* Custom styles */
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+.card-header {
+    font-weight: 600;
+}
+
+#charCount.warning {
+    color: #dc3545;
+}
+
+/* Calendar customization */
+.fc .fc-button {
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}
+
+.fc .fc-button:hover {
+    background-color: #0b5ed7;
+    border-color: #0a58ca;
+}
+
+.fc-event {
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}
